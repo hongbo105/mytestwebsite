@@ -1,0 +1,2 @@
+C:\learn\C#\MyFixItCloudService\bin\Debug\ServiceConfiguration.cscfg
+C:\learn\C#\MyFixItCloudService\bin\Debug\ServiceDefinition.csdef
